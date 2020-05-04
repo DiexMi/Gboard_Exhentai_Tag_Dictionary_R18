@@ -1,0 +1,2 @@
+# Gboard_Exhentai_Tag_Dictionary
+为Gboard制作的，源于的网络的ExH汉语全拼词库
