@@ -1,4 +1,4 @@
-# Gboard萌娘百科日本作品名与姓氏汉语全拼词库
+# Gboard ExH标签汉语全拼词库
 
 [`下载地址`](https://github.com/DiexMi/Gboard_Moegirl_Menu_Dictionary/releases/download/20200504/20200504.zip)<br>
 <br>
