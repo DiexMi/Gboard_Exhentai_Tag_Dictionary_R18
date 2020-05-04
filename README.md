@@ -1,4 +1,4 @@
-# Gboard ExH标签汉语全拼词库
+# Gboard ExH标签汉语全拼词库【R18】
 
 [`下载地址`](https://github.com/DiexMi/Gboard_Moegirl_Menu_Dictionary/releases/download/20200504/20200504.zip)<br>
 <br>
@@ -10,6 +10,9 @@
 感谢该脚本的两位制作者，NeedXuyao(汉化) & 叶海晨星(代码)，没有他们的付出，也不会有该词库的存在。
 
 ## 精简与删改说明 
+<br>
 尽量保证原标签词条不变的情况下，适当简化个别拼音长度，并删除几条过长/无用词条。
-
+<br>
+<br>
+<br>
 #### 仅收集整理•未经授权•不可商用•随意转载•仅供学习•24小时自行删除•侵删
